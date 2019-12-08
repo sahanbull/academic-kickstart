@@ -19,33 +19,49 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "University College London, Dept. of Computer Science"
+  organization_url = "https://www.ucl.ac.uk/computer-science/"
+  title = "Departmental Scholarship"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2018-04-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "TechCrunch"
+  organization_url = "https://techcrunch.com/"
+  title = "API Winner : StoryTunes"
+  url = "https://techcrunch.com/video/storytunes/"
+  certificate_url = ""
+  date_start = "2015-12-06"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = """
+  Based on an article URL provided by the user we get the text, title, keywords and entities from the Alchemy API. We use the musiXmatch lyrics dataset of the million song dataset (http://labrosa.ee.columbia.edu/millionsong/challenge) to generate a list of topic cluster of the available songs. Using the Alchemy information we then classify the article to one of this topics and retrieve the nearest songs. In addition we use the article entities to retrieve top songs directly from music APIs. Those combined results are then surfaced on the front end.
+  """
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Cisco"
+  organization_url = "https://myciip.com/"
+  title = "CIIP Research Fellowship"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2013-08-01"
+  date_end = "2014-08-01"
+  description = """
+  Cisco International Internship Programme (CIIP) is a programme for UCL students to conduct a one year research fellowship with a Research and Advanced Development team at Cisco Systems. One of the three students selected for the fellowship in 2013 
+  """
+  
+  [[item]]
+  organization = "University College London, Dept. of Computer Science"
+  organization_url = "https://www.ucl.ac.uk/computer-science/"
+  title = "UCL Advances Research Fellowship (Awarded Twice)"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-01"
+  date_end = ""
+  description = """
+  UCL Advances research fellowship is a scheme for UCL students to conduct bleeding edge research with Startup companies in London.
+  """
 
 +++
