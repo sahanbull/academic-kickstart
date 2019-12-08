@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sahan is a AI researcher affiliated with the UCL Centre for Foundational AI currently contributing to the X5GON project (\url{www.x5gon.org}).His research interests lie on the theme: "Improving Recommendations of Educational Contents to Lifelong Learners". He is a recipient of multiple research fellowships including UCL Advances (twice), Cisco CIIP and UCL Departmental Scholarship. Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains where he gained experience in user state modelling in a big data landscape. His current research is motivated towards developing scalable, automatic quality assurance models for educational resources and modelling the knowledge state of lifelong learners to identify the most helpful educational resources that will enable them to achieve their learning goals.
