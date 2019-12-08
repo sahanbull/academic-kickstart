@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "m.bulathwela@ucl.ac.uk".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/in4maniac
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=ZDBxGvgAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sahanbull
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "m.bulathwela@ucl.ac.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Sahan is a AI researcher affiliated with the UCL Centre for Foundational AI currently contributing to the [X5GON project](www.x5gon.org). His research interests lie on the theme: "Improving Recommendations of Educational Contents to Lifelong Learners". He is a recipient of multiple research fellowships including UCL Advances (twice), Cisco CIIP and UCL Departmental Scholarship. Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains where he gained experience in user state modelling in a big data landscape. His current research is motivated towards developing scalable, automatic quality assurance models for educational resources and modelling the knowledge state of lifelong learners to identify the most helpful educational resources that will enable them to achieve their learning goals.
+Sahan is a AI researcher affiliated with the UCL Centre for Foundational AI currently contributing to the [X5GON project](www.x5gon.org). His research interests lie on the theme: "Improving Recommendations of Educational Contents to Lifelong Learners". Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains where he gained experience in user state modelling in a big data landscape. His current research is motivated towards developing scalable, automatic quality assurance models for educational resources and modelling the knowledge state of lifelong learners to identify the most helpful educational resources that will enable them to achieve their learning goals.
