@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sahan Bulathwela
+name: Sahan Bulathwela (IN4MANIAC)
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher of Artificial Intelligence
+role: AI Researcher
 
 # Organizations/Affiliations
 organizations:
 - name: University College London
-  url: "https://www.ucl.ac.uk/computer-science/"
+  url: "https://www.ucl.ac.uk/ai-centre/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -28,14 +28,17 @@ interests:
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
+    institution: University College London, UK
+    year: 2021
+  - course: MSc in Computational Statistics and Machine Learning
+    institution: University College London, UK
+    year: 2014
+  - course: PGDip in Applied Statistics
+    institution: University of Peradeniya, Sri Lanka
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Computing, UK
+    institution: University of Portsmouth
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Sahan is a AI researcher affiliated with the UCL Centre for Foundational AI currently contributing to the [X5GON project](www.x5gon.org). His research interests lie on the theme: "Improving Recommendations of Educational Contents to Lifelong Learners". Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains where he gained experience in user state modelling in a big data landscape. His current research is motivated towards developing scalable, automatic quality assurance models for educational resources and modelling the knowledge state of lifelong learners to identify the most helpful educational resources that will enable them to achieve their learning goals.
+Sahan is affiliated to the UCL Centre for Artificial Intelligence currently contributing to the [X5GON project](www.x5gon.org). His research interests lie on the theme: "Improving Recommendations of Educational Contents to Lifelong Learners". Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains where he gained experience in user state modelling in a big data landscape. His current research is motivated towards developing scalable, automatic quality assurance models for educational resources and modelling the knowledge state of lifelong learners to identify the most helpful educational resources that will enable them to achieve their learning goals.
