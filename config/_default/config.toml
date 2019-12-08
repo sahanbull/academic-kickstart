@@ -20,7 +20,7 @@ copyright = ""
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "academic"
+theme = "new_academic"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
@@ -36,6 +36,8 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+[params]
+  color_theme = "custom"
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
   section = [ "HTML", "RSS" ]
