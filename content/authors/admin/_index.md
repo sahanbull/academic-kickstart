@@ -36,7 +36,7 @@ education:
   - course: PGDip in Applied Statistics
     institution: University of Peradeniya, Sri Lanka
     year: 2012
-  - course: BSc in Computing, UK
+  - course: BSc (Hons.) in Computing, UK
     institution: University of Portsmouth
     year: 2010
 
