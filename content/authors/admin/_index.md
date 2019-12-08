@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: University College London, UK
-    year: 2021
+    year: Ongoing
   - course: MSc in Computational Statistics and Machine Learning
     institution: University College London, UK
     year: 2014
