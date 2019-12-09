@@ -21,10 +21,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Educational Recommendation Systems
+- AI in Education
+- Recommendation Systems
 - Bayesian Statistics
 - Artificial Intelligence
-- Information Retrieval
 
 education:
   courses:
@@ -77,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-Sahan is affiliated to the UCL Centre for Artificial Intelligence currently contributing to the [X5GON project](https://x5gon.org) working with [Prof. Emine Yilmaz](https://sites.google.com/site/emineyilmaz) and Prof [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor). His research interests lie on the theme: "Improving Recommendations of Educational Contents to Lifelong Learners". Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains where he gained experience in user state modelling in a big data landscape.
+Sahan is affiliated to the UCL Centre for Artificial Intelligence currently contributing to the [X5GON project](https://x5gon.org) working with [Prof. Emine Yilmaz](https://sites.google.com/site/emineyilmaz) and [Prof. John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor). His research interests lie on the theme: "Improving Recommendations of Educational Contents to Lifelong Learners". Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains where he gained experience in user state modelling in a big data landscape.
