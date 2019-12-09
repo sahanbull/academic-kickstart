@@ -49,6 +49,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "m.bulathwela@ucl.ac.uk".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/in4maniac
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/in4maniac
