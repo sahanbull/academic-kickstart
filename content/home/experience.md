@@ -70,4 +70,6 @@ Main responsibilities included:
 - Mainly responsible for bridging the cutting edge data science and machine learning with HPC and distributed computing
 - Designing high performance data structures to enable teams to get the most out of TBs of data that pumps in to the systems on daily basis
 - Designing and Building massively parrallel, high performance data pipelines that utilise state of the art data structures, compression and machine learning algorithms
+"""
+
 +++
