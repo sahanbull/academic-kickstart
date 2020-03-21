@@ -29,7 +29,7 @@ abstract = "With the emergence of Open Education Resources (OERs), educational c
 # image_preview = "static/img/ftl.png"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
