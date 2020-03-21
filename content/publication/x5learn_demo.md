@@ -44,7 +44,7 @@ url_project = "https://www.x5gon.org/"
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.x5learn.org"
+url_source = "https://x5learn.org"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
