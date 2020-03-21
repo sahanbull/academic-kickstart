@@ -15,7 +15,7 @@ authors = ["**Sahan Bulathwela**", "Emine Yilmaz", "John Shawe-Taylor"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "Workshop on Artificial Intelligence for SDG at International Joint Conference for Artificial Intelligence (IJCAI)"
