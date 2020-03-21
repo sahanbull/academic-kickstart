@@ -65,6 +65,6 @@ highlight = true
 #caption = "My caption :smile:"
 
 +++
-The first paper outlining the foundations of the TrueLearn Bayesian learner model that recovers the learner's latent knowledge state based on how they engage with videolectures.
+This paper discusses the ideal features that are expected of a intelligent educational recommendation system. The preliminary results of the possibility is demostrated by partially implementing the model.
 
 In *Proceeding of*, 2020. 
