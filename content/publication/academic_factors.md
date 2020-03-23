@@ -18,12 +18,18 @@ authors = ["Jeevika Weerahewa", "**Sahan Bulathwela**", "Pradeepa Silva", "Kalya
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Peradeniya University Research Sessions PURSE - 2012"
-publication_short = "PURSE '12"
+publication = "Peradeniya University Research Sessions PURSE - 2013"
+publication_short = "PURSE '13"
 
 # Abstract and optional shortened version.
 
-abstract = "The recent advances in computer-assisted learning systems and the availability of open educational resources today promise a pathway to providing cost-efficient, high-quality education to large masses of learners. One of the most ambitious use cases of computer-assisted learning is to build a lifelong learning recommendation system. Unlike short-term courses, lifelong learning presents unique challenges, requiring sophisticated recommendation models that account for a wide range of factors such as background knowledge of learners or novelty of the material while effectively maintaining knowledge states of masses of learners for significantly longer periods of time (ideally, a lifetime). This work presents the foundations towards building a dynamic, scalable and transparent recommendation system for education, modelling learner's knowledge from implicit data in the form of engagement with open educational resources. We i) use a text ontology based on Wikipedia to automatically extract knowledge components of educational resources and, ii) propose a set of online Bayesian strategies inspired by the well-known areas of item response theory and knowledge tracing. Our proposal, TrueLearn, focuses on recommendations for which the learner has enough background knowledge (so they are able to understand and learn from the material), and the material has enough novelty that would help the learner improve their knowledge about the subject and keep them engaged. We further construct a large open educational video lectures dataset and test the performance of the proposed algorithms, which show clear promise towards building an effective educational recommendation system."
+abstract = "The objective of this study is to assess the extent to which academic history vis-à-vis other factors influence the academic performance of the undergraduate students in the Faculty of Agriculture, University of Peradeniya in Sri Lanka. A series of educational production functions were estimated treating Grade Point Average of students at semester level and cumulative Grade Point Average as the measures of academic performance. Academic history, engagements in student associations and other extra-curricular activities, learning environment, associations with the teaching staff, resources and support services provided by the university, social interactions, psychological factors, family background, funding and student inherent characteristics/personal background were hypothesized as the factors affecting academic performance. A structured questionnaire was distributed among 196 students in the final year of Agricultural Technology and Management degree program offered by the Faculty of Agriculture in 2011 to gather the needed data and 121 students responded to the survey. 
+
+Results of the econometric models specified at semester levels reveal that during the first semester, English language proficiency, efforts made by the student and family background have positive and statistically significant effects on academic performance of undergraduates while the performance during semesters 2-7 is largely driven by the performance of the previous semester. A significant gender disparity in academic performance of undergraduates exists. In general, female students perform better than the male students and psychological factors explain a considerable proportion of the variability of academic performance. 
+
+The results further reveal that the overall academic performance is influenced by the language proficiency and the academic efforts made by the students. Female students and those who came from privileged districts perform much better than their respective counterparts. Academic performance at school does not have a significant effect even when the other factors affecting undergraduate performance are controlled for. 
+
+The study concludes that the English language proficiency, family background and academic efforts made by the students are the three key elements that determine the academic performance at every level. Contrary to the expectation, the performance at the Advanced Level examination, as measured by the Z score, does not seem to influence undergraduate academic performance in a statistically significant manner. The above findings imply a need to upgrade the facilities to improve English language proficiency and to create an enabling learning environment primarily through strengthening of social interactions and enhancing psychological spirits of undergraduates in order to obtain the best return for the investment made in higher education in Sri Lanka."
 
 # Featured image thumbnail (optional)
 # image_preview = "static/img/ftl.png"
@@ -67,4 +73,4 @@ highlight = true
 
 +++
 Research outcome of understanding what factors affect undergraduate student performance at University of Peradeniya.
-In *Proceeding of*, 2013. 
+In *Book of Abstracts of*, 2013. 
