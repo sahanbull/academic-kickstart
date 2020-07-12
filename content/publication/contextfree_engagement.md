@@ -36,13 +36,13 @@ featured = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
-url_code = ""
-url_dataset = ""
+url_pdf = "https://educationaldatamining.org/files/conferences/EDM2020/papers/paper_62.pdf"
+url_preprint = "https://arxiv.org/pdf/2006.00592.pdf"
+url_code = "https://github.com/sahanbull/context-agnostic-engagement"
+url_dataset = "https://github.com/sahanbull/context-agnostic-engagement"
 url_project = "https://www.x5gon.org/"
-url_slides = ""
-url_video = ""
+url_slides = " https://drive.google.com/file/d/1Asm19frJs5fKokynOuzwT9BFZ2hJTUD8/view?usp=sharing"
+url_video = "https://youtu.be/7h_6KUIVO8s"
 url_poster = ""
 url_source = ""
 
