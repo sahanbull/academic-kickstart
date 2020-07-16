@@ -42,7 +42,7 @@ url_code = ""
 url_dataset = ""
 url_project = "https://www.x5gon.org/"
 url_slides = ""
-url_video = ""
+url_video = "https://youtu.be/aXGL05kbzyg"
 url_poster = ""
 url_source = "http://x5learn.org/"
 
