@@ -37,13 +37,13 @@ featured = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://arxiv.org/abs/1911.09471"
+url_pdf = "https://aaai.org/ojs/index.php/AAAI/article/view/5395"
+url_preprint = ""
 url_code = "https://github.com/sahanbull/TrueLearn"
 url_dataset = ""
 url_project = "https://www.x5gon.org/"
-url_slides = ""
-url_video = ""
+url_slides = "https://www.slideshare.net/SahanBulathwela/truelearn-a-family-of-bayesian-algorithms-to-match-lifelong-learners-to-open-educational-resources-aaai-20"
+url_video = "https://youtu.be/E11YUWad7Lw"
 url_poster = ""
 url_source = ""
 
