@@ -36,7 +36,7 @@ Main responsibilities include:
   """
 
 [[experience]]
-  title = "Senior Teaching Fellow"
+  title = "Principal Teaching Fellow"
   company = "CambridgeSpark Ltd."
   company_url = "https://cambridgespark.com/"
   location = "London/ Cambridge"
