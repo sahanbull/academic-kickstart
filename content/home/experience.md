@@ -19,6 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Board Trustee"
+  company = "Caribbean Hub AI Tech (CHAITECH)"
+  company_url = "https://chai.technology/"
+  location = "London"
+  date_start = "2020-10-01"
+  date_end = ""
+  description = """
+  Key Responsibilities:
+- Helping to identify and refine key objectives of the charity
+- Helping with curriculum design and planning the training experience of the CHAITECH Techprenour Programme
+- Identifying fundraising strategies and how to align them with causes
+- Leading the design process of training and mentoring activities related to Artificial Intelligence
+  """
+
+
+[[experience]]
   title = "Research Assistant"
   company = "University College London (X5GON Project)"
   company_url = "https://www.ucl.ac.uk/ai-centre/"
