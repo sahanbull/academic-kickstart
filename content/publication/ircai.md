@@ -1,6 +1,6 @@
 +++
 title = "An AI-based Learning Companion Promoting Lifelong Learning Opportunities for All"
-date = "2021-03-12"
+date = "2020-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
