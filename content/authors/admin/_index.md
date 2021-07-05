@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Computer Science
     institution: University College London, UK
     year: Ongoing
   - course: MSc in Computational Statistics and Machine Learning
