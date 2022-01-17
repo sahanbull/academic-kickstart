@@ -81,3 +81,7 @@ user_groups:
 ---
 
 Sahan is affiliated to the UCL Centre for Artificial Intelligence currently contributing to the [X5GON project](https://x5gon.org) and [HumaneAI project](https://www.humane-ai.eu/) working with [Emine Yilmaz](https://sites.google.com/site/emineyilmaz) and [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor). His research interests lie on the theme: "Improving Recommendations of Educational Contents to Lifelong Learners". Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains where he gained experience in user state modelling in a big data landscape.
+
+- 1 Full paper about the [Content-Flow Bar](https://arxiv.org/pdf/2201.03408.pdf) accepted to [CHIIR'22](https://ai.ur.de/chiir2022/)
+- Invited to present 2 papers about [TrueLearn](https://ojs.aaai.org//index.php/AAAI/article/view/5395) algorithm and [X5Learn](https://dl.acm.org/doi/abs/10.1145/3397482.3450721) platform at [RL4ED workshop at AAAI'22](https://rl4ed.org/aaai2022/)
+- 1 [opinon paper](https://arxiv.org/pdf/2112.02034.pdf) accepted to be presented at the [ML4D workshop at NeurIPS'21](https://ml4d.notion.site/548251eab3df4517819c4742c2e5c853)
