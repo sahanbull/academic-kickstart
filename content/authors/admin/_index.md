@@ -84,6 +84,7 @@ Sahan is affiliated to the UCL Centre for Artificial Intelligence currently cont
 
 ## Recent News
 
-- A full paper about the [Content-Flow Bar](https://arxiv.org/pdf/2201.03408.pdf) accepted to [CHIIR'22](https://ai.ur.de/chiir2022/)
-- Invited to present 2 papers about [TrueLearn](https://ojs.aaai.org//index.php/AAAI/article/view/5395) algorithm and [X5Learn](https://dl.acm.org/doi/abs/10.1145/3397482.3450721) platform at [RL4ED workshop at AAAI'22](https://rl4ed.org/aaai2022/)
-- An opinon paper about ["The Role of AI in Democratising Education"](https://arxiv.org/pdf/2112.02034.pdf) accepted to be presented at the [ML4D workshop at NeurIPS'21](https://ml4d.notion.site/548251eab3df4517819c4742c2e5c853)
+- VLEngagement 2 dataset paper accepted to [Educational Data Mining Conference (EDM'22)](https://educationaldatamining.org/edm2022/)
+- Invited to write a book chapter about [exploiting semantic relatedness information to improve educational recommenders](https://arxiv.org/abs/2112.04368) for an upcoming issue of [Semantic AI in Knowledge Graphs](https://sites.google.com/view/semaikg2022) book 
+- Invited to write an extended version of [the opinion peice for ML4D workshop at NeurIPS'21](https://arxiv.org/pdf/2112.02034.pdf) ["The Role of AI in Democratising Education"] as a book chapter for a book on the future of work.
+
