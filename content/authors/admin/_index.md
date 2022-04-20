@@ -86,5 +86,5 @@ Sahan is affiliated to the UCL Centre for Artificial Intelligence currently cont
 
 - VLEngagement 2 dataset paper accepted to [Educational Data Mining Conference (EDM'22)](https://educationaldatamining.org/edm2022/)
 - Invited to write a book chapter about [exploiting semantic relatedness information to improve educational recommenders](https://arxiv.org/abs/2112.04368) for an upcoming issue of [Semantic AI in Knowledge Graphs](https://sites.google.com/view/semaikg2022) book 
-- Invited to write an extended version of [the opinion peice for ML4D workshop at NeurIPS'21](https://arxiv.org/pdf/2112.02034.pdf) ["The Role of AI in Democratising Education"] as a book chapter for a book on the future of work.
+- Invited to write an extended version of [the opinion peice for ML4D workshop at NeurIPS'21](https://arxiv.org/pdf/2112.02034.pdf) as a book chapter for a book on the future of work.
 
