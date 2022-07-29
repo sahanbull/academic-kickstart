@@ -84,7 +84,7 @@ Sahan is affiliated to the UCL Centre for Artificial Intelligence currently cont
 
 ## Recent News
 
-- Tutorial "HUMANE AI: Vision for Inclusive Intelligent Interaction" has been accepted at Conference on Affective Computing and Intelligent Interaction 2022 (ACII'22)
-- VLE dataset paper accepted to [Educational Data Mining Conference (EDM'22)](https://educationaldatamining.org/edm2022/proceedings/2022.EDM-short-papers.40/index.html)
+- Tutorial "HUMANE AI: Vision for Inclusive Intelligent Interaction" has been accepted at [Conference on Affective Computing and Intelligent Interaction 2022 (ACII'22)](https://acii-conf.net/2022/)
+- VLE dataset paper presented to [Educational Data Mining Conference (EDM'22)](https://educationaldatamining.org/edm2022/proceedings/2022.EDM-short-papers.40/index.html)
 - Invited to write a book chapter about [exploiting emantic relatedness information to improve educational recommenders](https://arxiv.org/abs/2112.04368) for an upcoming issue of [Semantic AI in Knowledge Graphs](https://sites.google.com/view/semaikg2022) book
 
