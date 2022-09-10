@@ -1,23 +1,31 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: X5GONt
+summary: Cross Modal, Cross Cultural, Cross Lingual, Cross Domain, and Cross Site Global OER Network
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Artificial Intelligence
+  - Machine Learning
+  - Information Retrieval
+  - Entity Linking
+  - Natural Language Processing
+  - Educational Recommendation Systems
+  - Intelligent Tutoring Systems
+
+date: '2017-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://www.x5gon.org/'
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: 
+  focal_point: 
 
 links:
-  - icon: twitter
+  - icon: github
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
+    url: https://github.com/X5GON
+
+url_code: 'https://github.com/X5GON'
 url_pdf: ''
 url_slides: ''
 url_video: ''
@@ -27,15 +35,23 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+The project X5gon stands for easily implemented freely available innovative technology elements that will converge currently scattered Open Educational Resources (OER) available in various modalities across Europe and the globe. X5gon will combine content understanding, user modelling and quality assurance methods and tools to boost creating a homogenous network of (OER) sites and provides users (teachers, learners) with a common learning experience.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+X5gon will deploy open technologies for recommendation, learning analytics and learning personalisation services that will work across various OER sites, independent of languages, modalities, scientific domains, and cultural contexts.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+It will develop services for convergence of OER media which includes full courses, course materials, modules, textbooks, streaming videos, tests, software, related events and any other tools, materials, or techniques used to support access to knowledge. The solutions that will be offered to OER sites are fivefold:
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+- Cross-modal: technologies for multimodal content understanding
+- Cross-site: technologies to transparently accompany and analyse users across sites
+- Cross-domain: technologies for cross domain content analytics
+- Cross-language: technologies for cross lingual content recommendation
+- Cross-cultural: technologies for cross cultural learning personalisation
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+The project will collect and index OER resources, track data of users and their progress and use that to drive an analytics engine driven by state-of-the-art machine learning that can improve recommendations through better understanding of users, their progress and goals, and hence their match with knowledge resources of all types. In addition, X5gon will implement innovative models and methods for OER quality assessment and assurance, including trust networks between teachers for OER creation and exchange, automatic content validation and user experience.
+
+The project will run a series of pilot case studies that enable the measurement of the broader goals of delivering a useful and enjoyable educational experience to learners in different domains, at different levels and from different cultures. The two exploitation scenarios are planned: (i) free use of services for OER, (ii) commercial exploitation of the multimodal, big data, real-time analytics pipeline.
+
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 761758.
