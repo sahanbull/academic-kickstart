@@ -26,7 +26,7 @@ links:
     url: https://github.com/X5GON
 
 url_code: 'https://github.com/X5GON'
-url_pdf: ''
+url_pdf: 'https://www.x5gon.org/science/deliverables'
 url_slides: ''
 url_video: ''
 
