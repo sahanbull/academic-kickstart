@@ -1,5 +1,5 @@
 ---
-title: X5GONt
+title: X5GON
 summary: Cross Modal, Cross Cultural, Cross Lingual, Cross Domain, and Cross Site Global OER Network
 tags:
   - Artificial Intelligence
