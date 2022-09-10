@@ -16,8 +16,8 @@ date: '2017-09-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: 
-  focal_point: 
+  caption: For a smarter learning companion
+  focal_point: http://students.cs.ucl.ac.uk/2019/group4/images/logo.png
 
 links:
   - icon: github
