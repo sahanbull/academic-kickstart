@@ -1,64 +1,55 @@
-+++
-title = "X5GON: Cross Modal, Cross Cultural, Cross Lingual, Cross Domain and Cross Site Global OER Network"
-date = "2017-09-01
+---
+title: X5GON: Cross Modal, Cross Cultural, Cross Lingual, Cross Domain and Cross Site Global OER Network
+summary: We are leading a breakthrough EU H2020 project, creating a solution that will help users/students find what they need not just in OER repositories, but across all open educational resources on the web. This solution will adapt to the user’s needs and learn how to make ongoing customized recommendations and suggestions through a truly interactive and impactful learning experience. This new AI-driven platform will deliver OER content from everywhere, for the students’ need at the right time and place.
 
-# Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Work in progress
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
-publication_types = ["0"]
+tags:
+  - Artificial Intelligence
+  - Information Retrieval
+  - Machine Learning
+  - AI in Education
+  - Open Educational Resources
+  - Educational Recommendation Systems
+ 
+date: '2017-09-01T00:00:00Z'
 
-# Publication name and optional abbreviated version.
-publication = "European Roundtable on Sustainable Consumption and Production"
-publication_short = "ERSCP '12"
+# Optional external URL for project (replaces project detail page).
+external_link: 'https://www.x5gon.org'
 
-# Abstract and optional shortened version.
+# image:
+#   caption: Photo by rawpixel on Unsplash
+#   focal_point: Smart
 
-abstract = "Chemical fertilization is very popular in Sri Lankan agriculture and application of chemicals has a major impact on the economy, health and environment of the country. Vegetable and home garden cultivation has recorded the most severe harm adding very high levels of heavy metals to the environment. Chemical Leasing is an innovative business model which is a good solution for this issue which will reduce chemical usage while maximizing profits to major stakeholders. During the study, chemical leasing approach was applied to potato cultivation parallel to conventional farming approach. The pytoprotection chemicals were reduced in the chemical leasing approach and the leaf area and height was used to measure plant growth. New software was developed to measure the plant leaf area more efficiently. A methodology is formulated to derive the unit of payment for chemical leasing. Results show that the new software based approach to measuring leaf area is very successful with both Average Absolute Error and Average Bias Error < 5%. It is very much suitable for developing countries as it is less expensive and less labour intensive. Furthermore, Profit against chemical costs (α) Chemical reduction proportion (β) and Profit sharing agreement between service provider and the farmer (γ) are the important determinants of the unit of payment. These determinants are not universal and are variable from one project to another depending on numerous domain specific factors"
-# Featured image thumbnail (optional)
-# image_preview = "static/img/ftl.png"
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/georgecushen
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
 
-# Is this a featured publication? (true/false)
-featured = false
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides: example
+---
 
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#projects = ["example-external-project"]
+The project X5gon stands for easily implemented freely available innovative technology elements that will converge currently scattered Open Educational Resources (OER) available in various modalities across Europe and the globe. X5gon will combine content understanding, user modelling and quality assurance methods and tools to boost creating a homogenous network of (OER) sites and provides users (teachers, learners) with a common learning experience.
 
-# Links (optional).
-url_pdf = ""
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+X5gon will deploy open technologies for recommendation, learning analytics and learning personalisation services that will work across various OER sites, independent of languages, modalities, scientific domains, and cultural contexts.
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-[[url_custom]]
-name = "Project URL"
-url = "https://www.x5gon.org"
+It will develop services for convergence of OER media which includes full courses, course materials, modules, textbooks, streaming videos, tests, software, related events and any other tools, materials, or techniques used to support access to knowledge. The solutions that will be offered to OER sites are fivefold:
 
-# Does the content use math formatting?
-math = false
+- Cross-modal: technologies for multimodal content understanding
+- Cross-site: technologies to transparently accompany and analyse users across sites
+- Cross-language: technologies for cross lingual content recommendation
+- Cross-cultural: technologies for cross cultural learning personalisation
 
-# Does the content use source code highlighting?
-highlight = true
-  
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-# image = "ftl.png"
-#caption = "My caption :smile:"
+The project will collect and index OER resources, track data of users and their progress and use that to drive an analytics engine driven by state-of-the-art machine learning that can improve recommendations through better understanding of users, their progress and goals, and hence their match with knowledge resources of all types. In addition, X5gon will implement innovative models and methods for OER quality assessment and assurance, including trust networks between teachers for OER creation and exchange, automatic content validation and user experience.
 
-+++
+The project will run a series of pilot case studies that enable the measurement of the broader goals of delivering a useful and enjoyable educational experience to learners in different domains, at different levels and from different cultures. The two exploitation scenarios are planned: (i) free use of services for OER, (ii) commercial exploitation of the multimodal, big data, real-time analytics pipeline.
+
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 761758.
