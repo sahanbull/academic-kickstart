@@ -80,11 +80,11 @@ user_groups:
 - Visitors
 ---
 
-Sahan is affiliated to the UCL Centre for Artificial Intelligence currently contributing to the [X5GON project](https://x5gon.org) and [HumaneAI project](https://www.humane-ai.eu/) working with [Emine Yilmaz](https://sites.google.com/site/emineyilmaz) and [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor). His research interests lie on the theme: "Improving Recommendations of Educational Contents to Lifelong Learners". Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains where he gained experience in user state modelling in a big data landscape.
+Sahan is affiliated to the UCL Centre for Artificial Intelligence currently contributing to the [X5GON project](https://x5gon.org), [AT2030](https://at2030.org) and [HumaneAI project](https://www.humane-ai.eu) working with [Emine Yilmaz](https://sites.google.com/site/emineyilmaz), [Catherine Holloway](https://uclic.ucl.ac.uk/people/catherine-holloway) and [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor). His research interests lie on the theme: "Improving Recommendations of Educational Contents to Lifelong Learners". Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains where he gained experience in user state modelling in a big data landscape.
 
 ## Recent News
 
+- Our paper "Power to the Learner: Towards Humanly-intuitive, Integrative Recommendations with Open Educational Resources" has been accepted to the [Journal of Sustainability](https://www.mdpi.com/journal/sustainability/special_issues/AI_Interaction) (Impact Score: 3.889)
 - Tutorial "HUMANE AI: Vision for Inclusive Intelligent Interaction" has been accepted at [Conference on Affective Computing and Intelligent Interaction 2022 (ACII'22)](https://acii-conf.net/2022/)
-- VLE dataset paper presented to [Educational Data Mining Conference (EDM'22)](https://educationaldatamining.org/edm2022/proceedings/2022.EDM-short-papers.40/index.html)
-- Invited to write a book chapter about [exploiting emantic relatedness information to improve educational recommenders](https://arxiv.org/abs/2112.04368) for an upcoming issue of [Semantic AI in Knowledge Graphs](https://sites.google.com/view/semaikg2022) book
+- VLE dataset paper presented at [Educational Data Mining Conference (EDM'22)](https://educationaldatamining.org/edm2022/proceedings/2022.EDM-short-papers.40/index.html)
 
