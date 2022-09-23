@@ -84,7 +84,7 @@ Sahan is affiliated to the UCL Centre for Artificial Intelligence currently cont
 
 ## Recent News
 
-- Our paper "Power to the Learner: Towards Humanly-intuitive, Integrative Recommendations with Open Educational Resources" has been accepted to the [Journal of Sustainability](https://www.mdpi.com/journal/sustainability/special_issues/AI_Interaction) (Impact Score: 3.889)
+- Our paper [Power to the Learner: Towards Humanly-intuitive, Integrative Recommendations with Open Educational Resources](https://www.mdpi.com/2071-1050/14/18/11682) has been accepted to the [Journal of Sustainability](https://www.mdpi.com/journal/sustainability/special_issues/AI_Interaction) (Impact Score: 3.889)
 - Tutorial "HUMANE AI: Vision for Inclusive Intelligent Interaction" has been accepted at [Conference on Affective Computing and Intelligent Interaction 2022 (ACII'22)](https://acii-conf.net/2022/)
 - VLE dataset paper presented at [Educational Data Mining Conference (EDM'22)](https://educationaldatamining.org/edm2022/proceedings/2022.EDM-short-papers.40/index.html)
 
