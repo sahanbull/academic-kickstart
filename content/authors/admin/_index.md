@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University College London, UK
-    year: Ongoing
+    year: 2022
   - course: MSc in Computational Statistics and Machine Learning
     institution: University College London, UK
     year: 2014
