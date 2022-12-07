@@ -84,8 +84,8 @@ Sahan is affiliated to the UCL Centre for Artificial Intelligence currently cont
 
 ## Recent News
 
+- My collaborative work with my MSc. student Hamze Muse, titled "Pre-Training With Scientific Text Improves Educational Question Generation" has been accepted for an oral presentation at the [AAAI conference for Artificial Intellignce 2023](https://aaai.org/Conferences/AAAI-23/student-abstract-and-poster-program)
 - A book chapter, titled "Using Semantic Knowledge Graphs in Educational Recommenders to Address the Cold-Start" has been accepted to the book [Semantic AI in Knowledge Graphs](https://sites.google.com/view/semaikg2022)
 - Our recent paper titled [Towards Proactive Information Retrieval in Noisy Text with Wikipedia Concepts](https://arxiv.org/abs/2210.09877) with my MSc student Tabish Ahmed was accepted to [First Workshop on Proactive and Agent-Supported Information Retrieval at CIKM'22](https://pasircikm2022.github.io/PASIRCIKM)
 - Our paper [Power to the Learner: Towards Humanly-intuitive, Integrative Recommendations with Open Educational Resources](https://www.mdpi.com/2071-1050/14/18/11682) has been accepted to the [Journal of Sustainability](https://www.mdpi.com/journal/sustainability/special_issues/AI_Interaction) (Impact Score: 3.889)
-- Tutorial "HUMANE AI: Vision for Inclusive Intelligent Interaction" has been accepted at [Conference on Affective Computing and Intelligent Interaction 2022 (ACII'22)](https://acii-conf.net/2022/)
 
