@@ -84,7 +84,7 @@ Sahan is affiliated to the UCL Centre for Artificial Intelligence currently cont
 
 ## Recent News
 
-- I will be joining University College London as a Lecturer in Artificial Intelligence in February, 2023.
+- I will be joining [University College London](https://www.ucl.ac.uk/computer-science/ucl-computer-science) as a Lecturer in Artificial Intelligence from February, 2023.
 - My collaborative work with my MSc. student Hamze Muse, titled [Pre-Training With Scientific Text Improves Educational Question Generation](https://arxiv.org/abs/2212.03869) has been accepted for an oral presentation at the [AAAI conference for Artificial Intellignce 2023](https://aaai.org/Conferences/AAAI-23/student-abstract-and-poster-program)
 - A book chapter, titled "Using Semantic Knowledge Graphs in Educational Recommenders to Address the Cold-Start" has been accepted to the book [Semantic AI in Knowledge Graphs](https://sites.google.com/view/semaikg2022)
 - Our recent paper titled [Towards Proactive Information Retrieval in Noisy Text with Wikipedia Concepts](https://arxiv.org/abs/2210.09877) with my MSc student Tabish Ahmed was accepted to [First Workshop on Proactive and Agent-Supported Information Retrieval at CIKM'22](https://pasircikm2022.github.io/PASIRCIKM)
