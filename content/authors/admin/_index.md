@@ -85,4 +85,4 @@ Sahan is affiliated to the UCL Centre for Artificial Intelligence currently cont
 ## Recent News
 - We have a full paper titled [Scalable Educational Question Generation with Pre-trained Language Models](https://arxiv.org/abs/2305.07871) and two demonstrations on the [X5Learn](https://x5learn.org/) platform and the [TrueLearn](https://truelearn.readthedocs.io/en/latest/) python library accepted at the [Int. Conf. on Artificial Intelligence for Education (AIED'23)](https://www.aied2023.org/)
 - I have been awarded a mini-grant by the UCL [Co-creators AI initiative](https://www.ucl.ac.uk/changemakers/co-creators-ai) to explore the potential of creating interesting pedagogies where students, teachers and AI can work together to enhance assessment and learning support in higher education. 
-- Was thrilled to talk about Big Data and Large Scale ML with Apache Spark at [PyConLK](https://pycon.lk)
+- Was thrilled to talk about [Big Data and Large Scale ML](https://youtu.be/PCypo8m0mIE) with Apache Spark at [PyConLK](https://pycon.lk)
