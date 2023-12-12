@@ -80,7 +80,9 @@ user_groups:
 - Visitors
 ---
 
-Sahan is affiliated with the UCL Centre for Artificial Intelligence currently contributing to the [X5GON project](https://x5gon.org), [AT2030](https://at2030.org) and [HumaneAI project](https://www.humane-ai.eu) working with [Emine Yilmaz](https://sites.google.com/site/emineyilmaz), [Catherine Holloway](https://uclic.ucl.ac.uk/people/catherine-holloway) and [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor). He is also part of [the UNESCO Chair for AI team](https://unesco.org.uk/unesco-chair-on-artificial-intelligence-at-university-college-london/) His research interests lie in the theme: "Improving AI-enabled systems for lifelong learning". Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains where he gained experience in user state modelling in a big data landscape.
+Sahan is affiliated with the UCL Centre for Artificial Intelligence currently contributing to the [X5GON project](https://x5gon.org), [AT2030](https://at2030.org) and [HumaneAI project](https://www.humane-ai.eu) working with [Emine Yilmaz](https://sites.google.com/site/emineyilmaz), [Catherine Holloway](https://uclic.ucl.ac.uk/people/catherine-holloway) and [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor). He is also part of [the UNESCO Chair on AI team](https://unesco.org.uk/unesco-chair-on-artificial-intelligence-at-university-college-london/) His research interests lie in the theme: "Improving AI-enabled systems for lifelong learning". Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains where he gained experience in user state modelling in a big data landscape.
+
+**If you are interested in research internship (remote/onsite) / PhD opportunities, contact me !!**
 
 ## Recent News
 
