@@ -80,13 +80,14 @@ user_groups:
 - Visitors
 ---
 
+**If you are interested in research internship (remote/onsite) / PhD opportunities on AI for Education, contact me with your CV and a prospective proposal!!**
+
 Sahan is affiliated with the UCL Centre for Artificial Intelligence currently contributing to the [X5GON project](https://x5gon.org), [AT2030](https://at2030.org) and [HumaneAI project](https://www.humane-ai.eu) working with [Emine Yilmaz](https://sites.google.com/site/emineyilmaz), [Catherine Holloway](https://uclic.ucl.ac.uk/people/catherine-holloway) and [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor). He is also part of [the UNESCO Chair on AI team](https://unesco.org.uk/unesco-chair-on-artificial-intelligence-at-university-college-london/) His research interests lie in the theme: "Improving AI-enabled systems for lifelong learning". Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains where he gained experience in user state modelling in a big data landscape.
 
-**If you are interested in research internship (remote/onsite) / PhD opportunities on AI for Education, contact me with your CV and a prospective proposal!!**
 
 ## Recent News
 
 - We have a full paper titled "A Toolbox for Modelling Engagement with Educational Videos" accepted at the AAAI conference on the [EAAI: Educational Advances in AI sub-conference](https://aaai.org/aaai-conference/eaai-24-call-for-participation/) in Vancouver, Canada.
-- 2/2 of my submissions to NeurIPS'23 workshops, namely to Generative AI in Education (GAIED) and Socially Responsible Language Research (SoLar) were accepted. 
+- 2/2 of my submissions to NeurIPS'23 workshops, namely to [Generative AI in Education (GAIED)](https://gaied.org/neurips2023/files/18/18_paper.pdf) and [Socially Responsible Language Research (SoLar)](https://arxiv.org/abs/2311.14126) were accepted. 
 - Our latest paper outlining the [TrueLearn](https://truelearn.readthedocs.io/en/latest/) library got accepted to [ORSUM workshop](https://orsum.inesctec.pt/orsum2023/) at [RecSys'23](https://recsys.acm.org/recsys23/) in Singapore
 
