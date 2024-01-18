@@ -87,7 +87,7 @@ Sahan is a lecturer affiliated with the UCL Centre for Artificial Intelligence c
 
 ## Recent News
 
-- Starting the year with our new opinion piece [Artificial Intelligence Alone Will Not Democratise Education: On Educational Inequality, Techno-Solutionism and Inclusive Tools](https://www.mdpi.com/2071-1050/16/2/781) published in the [Journal of Sustainability](https://www.mdpi.com/journal/sustainability) (IF: 3.9)
+- Starting the year with our new opinion piece [Artificial Intelligence Alone Will Not Democratise Education: On Educational Inequality, Techno-Solutionism and Inclusive Tools](https://www.mdpi.com/2071-1050/16/2/781) published in the [Journal of Sustainability](https://www.mdpi.com/journal/sustainability) (Impact Factor: 3.9)
 - We have a full paper titled [A Toolbox for Modelling Engagement with Educational Videos](https://arxiv.org/pdf/2401.05424.pdf) accepted at the [AAAI conference on the Advancement of Artificial Intelligence](https://aaai.org/aaai-conference/eaai-24-call-for-participation/) in Vancouver, Canada.
 - 2/2 of my submissions to NeurIPS'23 workshops, namely to [Generative AI in Education (GAIED)](https://gaied.org/neurips2023/files/18/18_paper.pdf) and [Socially Responsible Language Research (SoLar)](https://openreview.net/pdf?id=Wu975eZkO3) were accepted. 
 
