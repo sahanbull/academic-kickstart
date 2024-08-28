@@ -86,8 +86,8 @@ Sahan is a lecturer affiliated with the UCL Centre for Artificial Intelligence c
 
 
 ## Recent News
-
+- Appointed to the scientific committee of the world's [first International AI Olympiad](https://www.iaio-official.org/)
+- Our paper titled [Towards Human-Like Educational Question Generation with Small Language Models](https://link.springer.com/chapter/10.1007/978-3-031-64315-6_25) was presented at [Int. Conf. on AI for Education](https://aied2024.cesar.school/) (AIED).
 - Starting the year with our new opinion piece [Artificial Intelligence Alone Will Not Democratise Education: On Educational Inequality, Techno-Solutionism and Inclusive Tools](https://www.mdpi.com/2071-1050/16/2/781) published in the [Journal of Sustainability](https://www.mdpi.com/journal/sustainability) (Impact Factor: 3.9)
-- We have a full paper titled [A Toolbox for Modelling Engagement with Educational Videos](https://arxiv.org/pdf/2401.05424.pdf) accepted at the [AAAI conference on the Advancement of Artificial Intelligence](https://aaai.org/aaai-conference/eaai-24-call-for-participation/) in Vancouver, Canada.
-- 2/2 of my submissions to NeurIPS'23 workshops, namely to [Generative AI in Education (GAIED)](https://gaied.org/neurips2023/files/18/18_paper.pdf) and [Socially Responsible Language Research (SoLar)](https://openreview.net/pdf?id=Wu975eZkO3) were accepted. 
+- We have a full paper titled [A Toolbox for Modelling Engagement with Educational Videos](https://ojs.aaai.org/index.php/AAAI/article/view/30358) accepted at the [AAAI conference on the Advancement of Artificial Intelligence](https://aaai.org/aaai-conference/eaai-24-call-for-participation/) in Vancouver, Canada.
 
