@@ -22,6 +22,7 @@ bio: My research interests include AI for Education, AI for Sustainable Developm
 
 interests:
 - AI in Education
+- Utility of LLMs in Education
 - Recommendation Systems
 - Bayesian Statistics
 - Artificial Intelligence
@@ -82,12 +83,12 @@ user_groups:
 
 **If you are interested in research internship (remote/onsite) / PhD opportunities on AI for Education, contact me with your CV and a prospective proposal!!**
 
-Sahan is a lecturer affiliated with the UCL Centre for Artificial Intelligence currently contributing to the [X5GON project](https://x5gon.org), [AT2030](https://at2030.org) and [HumaneAI project](https://www.humane-ai.eu) working with [Emine Yilmaz](https://sites.google.com/site/emineyilmaz), [Catherine Holloway](https://uclic.ucl.ac.uk/people/catherine-holloway) and [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor). He is also part of [the UNESCO Chair on AI team](https://unesco.org.uk/unesco-chair-on-artificial-intelligence-at-university-college-london/) His research interests lie in the theme: "Improving AI-enabled systems for lifelong learning". Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains where he gained experience in user state modelling in a big data landscape.
+Sahan is a lecturer affiliated with the UCL Centre for Artificial Intelligence currently contributing to the [TAICo](https://taico-project.eu), [X5GON project](https://x5gon.org) and [HumaneAI project](https://www.humane-ai.eu) working with [Emine Yilmaz](https://sites.google.com/site/emineyilmaz) and [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor). He is also part of [the UNESCO Chair on AI team](https://unesco.org.uk/unesco-chair-on-artificial-intelligence-at-university-college-london/) His research interests lie in the theme: "Improving AI-enabled systems for lifelong learning". Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains where he gained experience in user state modelling in a big data landscape.
 
 
 ## Recent News
+- Our full paper on [Topic-Controlled Question Generation with small Language Models](https://arxiv.org/abs/2501.05220) is accepted to the [ACM Conference on Learning Analytics and Knowledge (LAK'25)](https://www.solaresearch.org/events/lak/lak25/)
 - Appointed to the scientific committee of the world's [first International AI Olympiad](https://www.iaio-official.org/)
 - Our paper titled [Towards Human-Like Educational Question Generation with Small Language Models](https://link.springer.com/chapter/10.1007/978-3-031-64315-6_25) was presented at [Int. Conf. on AI for Education](https://aied2024.cesar.school/) (AIED).
 - Starting the year with our new opinion piece [Artificial Intelligence Alone Will Not Democratise Education: On Educational Inequality, Techno-Solutionism and Inclusive Tools](https://www.mdpi.com/2071-1050/16/2/781) published in the [Journal of Sustainability](https://www.mdpi.com/journal/sustainability) (Impact Factor: 3.9)
-- We have a full paper titled [A Toolbox for Modelling Engagement with Educational Videos](https://ojs.aaai.org/index.php/AAAI/article/view/30358) accepted at the [AAAI conference on the Advancement of Artificial Intelligence](https://aaai.org/aaai-conference/eaai-24-call-for-participation/) in Vancouver, Canada.
 
