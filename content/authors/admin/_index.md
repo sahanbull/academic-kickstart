@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: Lecturer/ AI Researcher
 
-# Organizations/Affiliations
+# Organisations/Affiliations
 organizations:
 - name: University College London
   url: "https://www.ucl.ac.uk/ai-centre/"
@@ -22,7 +22,7 @@ bio: My research interests include AI for Education, AI for Sustainable Developm
 
 interests:
 - AI in Education
-- Utility of LLMs in Education
+- Human-AI Teaming
 - Recommendation Systems
 - Bayesian Statistics
 - Artificial Intelligence
@@ -87,8 +87,8 @@ Sahan is a lecturer affiliated with the UCL Centre for Artificial Intelligence c
 
 
 ## Recent News
+- Our full paper titled [Rethinking the Potential of Multimodality in Collaborative Problem Solving Diagnosis with Large Language Models](https://arxiv.org/pdf/2504.15093) is accepted to the [26th International Conference on Artificial Intelligence in Education](https://aied2025.itd.cnr.it)
 - Our full paper on [Topic-Controlled Question Generation with small Language Models](https://arxiv.org/abs/2501.05220) is accepted to the [ACM Conference on Learning Analytics and Knowledge (LAK'25)](https://www.solaresearch.org/events/lak/lak25/)
-- Appointed to the scientific committee of the world's [first International AI Olympiad](https://www.iaio-official.org/)
+- Appointed to the scientific committee of the[International AI Olympiad](https://www.iaio-official.org/)
 - Our paper titled [Towards Human-Like Educational Question Generation with Small Language Models](https://link.springer.com/chapter/10.1007/978-3-031-64315-6_25) was presented at [Int. Conf. on AI for Education](https://aied2024.cesar.school/) (AIED).
-- Starting the year with our new opinion piece [Artificial Intelligence Alone Will Not Democratise Education: On Educational Inequality, Techno-Solutionism and Inclusive Tools](https://www.mdpi.com/2071-1050/16/2/781) published in the [Journal of Sustainability](https://www.mdpi.com/journal/sustainability) (Impact Factor: 3.9)
 
