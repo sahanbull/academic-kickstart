@@ -87,8 +87,8 @@ Sahan is a lecturer affiliated with the UCL Centre for Artificial Intelligence c
 
 
 ## Recent News
-- Our full paper titled [Rethinking the Potential of Multimodality in Collaborative Problem Solving Diagnosis with Large Language Models](https://arxiv.org/pdf/2504.15093) is accepted to the [26th International Conference on Artificial Intelligence in Education](https://aied2025.itd.cnr.it)
-- Our full paper on [Topic-Controlled Question Generation with small Language Models](https://arxiv.org/abs/2501.05220) is accepted to the [ACM Conference on Learning Analytics and Knowledge (LAK'25)](https://www.solaresearch.org/events/lak/lak25/)
+- My most recent collaboration with Thailand focusing on AI in Healthcare, titled ["AISIM: evaluating impacts of user interface elements of an AI assisting tool"](https://doi.org/10.1371/journal.pone.0322854) was published in the PlosONE Journal. 
+- Our full paper titled [Rethinking the Potential of Multimodality in Collaborative Problem Solving Diagnosis with Large Language Models](https://arxiv.org/pdf/2504.15093) is accepted to the [26th International Conference on Artificial Intelligence in Education (AIED'25)](https://aied2025.itd.cnr.it)
+- Our full paper on [Topic-Controlled Question Generation with small Language Models](https://arxiv.org/abs/2501.05220) is accepted to the [ACM Conference on Learning Analytics and Knowledge (LAK'25)](https://www.solaresearch.org/events/lak/lak25/) 
 - Appointed to the scientific committee of the[International AI Olympiad](https://www.iaio-official.org/)
-- Our paper titled [Towards Human-Like Educational Question Generation with Small Language Models](https://link.springer.com/chapter/10.1007/978-3-031-64315-6_25) was presented at [Int. Conf. on AI for Education](https://aied2024.cesar.school/) (AIED).
 
