@@ -87,7 +87,7 @@ Sahan is a lecturer affiliated with the UCL Centre for Artificial Intelligence c
 
 
 ## Recent News
+- Our paper describing the joint work with Khon Kaen University has been accepted to [Nature Scientific Reports](https://www.nature.com/srep) (5Y IF:4.3, 3rd most cited journal in the world). 
 - We present 3 papers at [26th Int. Conf. on Artificial Intelligence in Education (AIED'25)](https://aied2025.itd.cnr.it), 1) our full paper titled [Rethinking the Potential of Multimodality in Collaborative Problem Solving Diagnosis with Large Language Models](https://arxiv.org/pdf/2504.15093) (Oral, ***Best Paper @ AIED***) is accepted to the  main track while 2) paper "Exploring Human–AI Complementarity in CPS Diagnosis Using Unimodal and Multimodal BERT Models" (Oral) is accepted to the [Multimodal Interactions and Explainable AI for Reflective Physical and Virtual Learning](https://sites.google.com/view/mixailearn/aied2025) workshop and 3) paper "Explainable Collaborative Problem Solving Diagnosis with BERT using SHAP and its Implications for Teacher Adoption" (Oral) is accepted to the [XAI-Ed: Pedagogy-Founded Explainable AI for Transparent, User-Centered AI in Education](https://www.xai-ed.net/) workshop.
 - My most recent collaboration with Thailand, focusing on AI in Healthcare, titled ["AISIM: evaluating impacts of user interface elements of an AI assisting tool"](https://doi.org/10.1371/journal.pone.0322854) was published in the PLOS One Journal. 
-- Our full paper on [Topic-Controlled Question Generation with small Language Models](https://arxiv.org/abs/2501.05220) (Oral) is accepted to the [ACM Conference on Learning Analytics and Knowledge (LAK'25)](https://www.solaresearch.org/events/lak/lak25/)
 
