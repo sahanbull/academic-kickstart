@@ -96,5 +96,7 @@ Sahan is a lecturer affiliated with the UCL Centre for Artificial Intelligence c
 - Zekun Wu (PhD Candidate, UCL CS)
 - Max Norris (PhD Candidate, U. of Edinburgh)
 - Junyuan Liang (PhD Candidate, UCL IoE)
+- Georgi Iliev (MSc RA, UCL CS)
+- Ratneshwaran Maheshwaran (MSc RA, UCL CS)
 - Nadeeshani Aththanagoda (Incoming PhD Student, U. of Peradeniya)
 
