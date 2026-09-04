@@ -83,7 +83,7 @@ user_groups:
 
 **If you are interested in research internship (remote/onsite) / PhD opportunities on AI for Education, contact me with your CV and a prospective proposal!!**
 
-Sahan is a lecturer affiliated with the UCL Centre for Artificial Intelligence, leading the Autonomous Systems for Knowledge Management and Education (ASKME) lab. He currently contribute to the [TAICo](https://taico-project.eu), [X5GON project](https://x5gon.org) and [HumaneAI project](https://www.humane-ai.eu). He is also part of [the UNESCO Chair in Artificial Intelligence team](https://unesco.org.uk/unesco-chair-on-artificial-intelligence-at-university-college-london/). His research interests lie in the theme: "Improving AI-enabled systems for lifelong learning". Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains, where he gained experience in user state modelling in a big data landscape.
+Sahan is a lecturer affiliated with the UCL Centre for Artificial Intelligence, leading the **A**utonomous **S**ystems for **K**nowledge **M**anagement and **E**ducation (ASKME) lab. He currently contribute to the [TAICo](https://taico-project.eu), [X5GON project](https://x5gon.org) and [HumaneAI project](https://www.humane-ai.eu). He is also part of [the UNESCO Chair in Artificial Intelligence team](https://unesco.org.uk/unesco-chair-on-artificial-intelligence-at-university-college-london/). His research interests lie in the theme: "Improving AI-enabled systems for lifelong learning". Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains, where he gained experience in user state modelling in a big data landscape.
 
 
 ## Recent News
