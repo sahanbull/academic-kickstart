@@ -53,9 +53,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/in4maniac
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/in4maniac
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCrWSVmArdRgJZypLPAhbCrw 
@@ -74,31 +71,35 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "m.bulathwela@ucl.ac.uk"
 
-# Organizational groups that you belong to (for People widget)
+# Organisational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Visitors
 ---
 
-**If you are interested in research internship (remote/onsite) / PhD opportunities on AI for Education, contact me with your CV and a prospective proposal!!**
+**If you are interested in research internships (remote/onsite) / PhD opportunities on AI for Education, contact me with your CV and a prospective proposal!!**
 
 Sahan is a lecturer affiliated with the UCL Centre for Artificial Intelligence, leading the **A**utonomous **S**ystems for **K**nowledge **M**anagement and **E**ducation (ASKME) lab. He currently contribute to the [TAICo](https://taico-project.eu), [X5GON project](https://x5gon.org) and [HumaneAI project](https://www.humane-ai.eu). He is also part of [the UNESCO Chair in Artificial Intelligence team](https://unesco.org.uk/unesco-chair-on-artificial-intelligence-at-university-college-london/). His research interests lie in the theme: "Improving AI-enabled systems for lifelong learning". Before joining UCL, he worked  in several research roles in the industry in cybersecurity and personalised advertising domains, where he gained experience in user state modelling in a big data landscape.
 
 
 ## Recent News
 - Very fruitful research output this term, we have ***8*** papers accepted at [27th Int. Conf. on Artificial Intelligence in Education (AIED'26)](https://aied-conference.org/2026). Our 1) [Gaze to Insight: A Scalable AI Approach for Detecting Gaze Behaviours in Face-to-Face Collaborative Learning](https://arxiv.org/pdf/2604.03317), 2) paper [Mix and Match: Context Pairing for Scalable Topic-Controlled Educational Summarisation](https://arxiv.org/pdf/2604.18087) and 3) [Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning](https://arxiv.org/pdf/2605.23925) papers and several workshop papers to [Pedagogical Evaluation of Automated Feedback](https://peaf-workshop.github.io/2026) and [Small Language Models for Education](https://slm4ed-workshop.github.io) workshops. Also, 2 contributions were accepted to [Int. Conf. in Machine Learning (ICML)](https://icml.cc/) workshops. 
-- We have two Full papers, 1) Scaffolding Reshapes Dialogic Engagement in Collaborative Problem Solving: Comparative Analysis of Two Approaches and 2) Examining Student Interactions with a Pedagogical AI-Assistant for Essay Writing and their Impact on Students’ Writing Quality, accepted at the [ACM Learning Analytics and Knowledge Conference (LAK)](http://solaresearch.org/events/lak/lak26).
+- We have two Full papers: 1) Scaffolding Reshapes Dialogic Engagement in Collaborative Problem Solving: Comparative Analysis of Two Approaches and 2) Examining Student Interactions with a Pedagogical AI-Assistant for Essay Writing and their Impact on Students’ Writing Quality, accepted at the [ACM Learning Analytics and Knowledge Conference (LAK)](http://solaresearch.org/events/lak/lak26).
 - Our paper, titled [AI-enhanced rapid diagnostic testing platform for mass opisthorchiasis screening](https://www.nature.com/articles/s41598-025-16893-7), describing the joint work with Khon Kaen University in Thailand, has been accepted to [Nature Scientific Reports](https://www.nature.com/srep) (IF:4.3, 3rd most cited journal in the world). 
 
 
 ## Current Students
 - Kester Wong (PhD Candidate, UCL IoE)
 - Zekun Wu (PhD Candidate, UCL CS)
+- Xiaoyu Zhang (PhD Candidate, UCL CS)
 - Max Norris (PhD Candidate, U. of Edinburgh)
+- Nadeeshani Aththanagoda (PhD Candidate, U. of Peradeniya)
 - Junyuan Liang (PhD Candidate, UCL IoE)
+
+
+## Alumni
+- Ratneshwaran Maheshwaran (MSc RA, Now at Imperial)
 - Nathiegarn Yodthap (MSc RA, Khon Kaen University)
-- Georgi Iliev (MSc RA, UCL CS)
-- Ratneshwaran Maheshwaran (MSc RA, UCL CS)
-- Nadeeshani Aththanagoda (Incoming PhD Student, U. of Peradeniya)
+- Georgi Iliev (MSc RA, AI/Data Analyst, Royal London)
 
