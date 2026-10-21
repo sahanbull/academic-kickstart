@@ -90,7 +90,6 @@ Sahan is a lecturer affiliated with the UCL Centre for Artificial Intelligence, 
 
 
 ## Current Students
-- Kester Wong (PhD Candidate, UCL IoE)
 - Zekun Wu (PhD Candidate, UCL CS)
 - Xiaoyu Zhang (PhD Candidate, UCL CS)
 - Max Norris (PhD Candidate, U. of Edinburgh)
@@ -99,6 +98,7 @@ Sahan is a lecturer affiliated with the UCL Centre for Artificial Intelligence, 
 
 
 ## Alumni
+- Kester Wong (PhD, Now Asst. Prof. at NTU, Singapore)
 - Ratneshwaran Maheshwaran (MSc RA, Now at Imperial)
 - Nathiegarn Yodthap (MSc RA, Khon Kaen University)
 - Georgi Iliev (MSc RA, AI/Data Analyst, Royal London)
